@@ -1,16 +1,68 @@
-## Hi there 👋
 
-<!--
-**CarlosMarronBenito/CarlosMarronBenito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Whoami
 
-Here are some ideas to get you started:
+I'm Carlos Marrón, a 20-year-old cybersecurity engineer and Web3 security researcher.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on finding real-world vulnerabilities in smart contracts, DeFi protocols, and blockchain infrastructure, especially across the dApps I personally use.
+
+Right now, I'm building next-generation audit agents designed to search for live critical vulnerabilities at scale.
+
+## About
+
+I focus on:
+
+- Smart contract security
+- Web3 protocol auditing
+- DeFi vulnerability research
+- Proof-of-Concept development
+- Funds-at-risk analysis
+- Responsible disclosure
+
+Some reports are fully public, while others are partially redacted to avoid exposing private company information, vulnerable codebases, internal communications, or unresolved technical details.
+
+---
+
+## Disclosure Policy
+
+All reports in this repository follow responsible disclosure principles.
+
+For private or sensitive cases:
+
+- Company names may be removed
+- Contract addresses may be censored
+- Internal links may be omitted
+- Exploit paths may be partially redacted
+- Proofs of Concept may be simplified or anonymized
+- Sensitive screenshots or communications may be excluded
+
+The purpose is to demonstrate technical ability without putting any organization, users, or funds at risk.
+
+---
+
+## Reports
+
+| ID | Severity | Area | Impact | Status | Reward | Report |
+|---|---:|---|---|---|---:|---|
+| BBP-001 | Critical | Smart Contract / Web3 | ~$400,000 funds at risk | Confirmed - OOS | $0 | [Redacted Report](./reports/BBP-001-redacted-critical.pdf) |
+| BBP-002 | Critical | Smart Contract / Web3 | ~$16,000 funds at risk | Paid | $1,600 | [Redacted Report](https://www.linkedin.com/feed/update/urn:li:activity:7388469541724524544/) |
+| BBP-003 | Low | Smart Contract / Web3 | Stale Migration Approval Logic | Paid | $340 | [View Report](https://reports.immunefi.com/folks-finance-staking-contracts/69794-sc-low-user-cannot-revoke-migration-approval-if-migrator-loses-migrator-role) |
+| BBP-004 | Low | Smart Contract / Web3 | Sponsorships DoS | Pending Payment | $144 | [View Report](https://audits.sherlock.xyz/contests/1260/voting/703)  |
+| BBP-005 | Low | Smart Contract / Web3 | Bond Freezing | Pending Payment | Not disclosed | Not available yet |
+
+---
+
+## Highlights
+
+- Identified critical vulnerabilities with real funds at risk
+- Produced non-destructive Proofs of Concept
+- Followed responsible disclosure processes
+- Reported issues affecting live or production-related systems
+- Experience writing clear technical reports for triage teams
+
+---
+
+
+## Contact
+
+* GitHub: [@CarlosMarronBenito](https://github.com/CarlosMarronBenito)
+* LinkedIn:  https://www.linkedin.com/in/carlos-marron-benito/
