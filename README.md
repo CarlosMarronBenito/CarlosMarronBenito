@@ -47,7 +47,7 @@ The purpose is to demonstrate technical ability without putting any organization
 | BBP-002 | Critical | Smart Contract / Web3 | ~$16,000 funds at risk | Paid | $1,600 | [Redacted Report](https://www.linkedin.com/feed/update/urn:li:activity:7388469541724524544/) |
 | BBP-003 | Low | Smart Contract / Web3 | Stale Migration Approval Logic | Paid | $340 | [View Report](https://reports.immunefi.com/folks-finance-staking-contracts/69794-sc-low-user-cannot-revoke-migration-approval-if-migrator-loses-migrator-role) |
 | BBP-004 | Low | Smart Contract / Web3 | Sponsorships DoS | Pending Payment | $144 | [View Report](https://audits.sherlock.xyz/contests/1260/voting/703)  |
-| BBP-005 | Low | Smart Contract / Web3 | Bond Freezing | Pending Payment | Not disclosed | Pending Disclosure |
+| BBP-005 | Low | Smart Contract / Web3 | Bond Freezing | Paid | $7 :/ | Pending Disclosure |
 
 ---
 
