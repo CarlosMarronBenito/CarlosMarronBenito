@@ -41,7 +41,7 @@
 | Program          | Platform | Findings                      | Status                |
 | ---------------- | -------- | ----------------------------- | --------------------- |
 | 🔥 **Firelight** | Immunefi | 🟠 `2× High` · 🟢 `1× Low`    | ⏳ **Pending Results** |
-| ⚛️ **Quantus**   | Immunefi | 🟠 `2× High` · 🔵 `1× Medium` | ⏳ **Pending Results** |
+| ⚛️ **Quantus**   | Immunefi | 🟠 `3× High` · 🔵 `1× Medium` | ⏳ **Pending Results** |
 | 📊 **Metric**    | Sherlock | 🔵 `2× Medium`                | ⏳ **Pending Results**  |
 
 ---
@@ -66,11 +66,11 @@
 | Severity         | ✅ Confirmed | ⏳ Pending |  Total |
 | ---------------- | ----------: | --------: | -----: |
 | 🔴 **Critical**  |       **2** |     **0** |  **2** |
-| 🟠 **High**      |       **0** |     **4** |  **4** |
+| 🟠 **High**      |       **0** |     **5** |  **5** |
 | 🔵 **Medium**    |       **1** |     **3** |  **4** |
 | 🟢 **Low**       |       **4** |     **1** |  **5** |
 | ⚪ **Insight**    |       **1** |     **0** |  **1** |
-| **All Findings** |       **8** |     **8** | **16** |
+| **All Findings** |       **8** |     **9** | **17** |
 
 | Metric                         |       Value |
 | ------------------------------ | ----------: |
@@ -87,13 +87,14 @@ pending_queue/
 ├── quantus/
 │   ├── HIGH
 │   ├── HIGH
+│   ├── HIGH
 │   └── MEDIUM
 │
 └── metric/
     ├── MEDIUM
     └── MEDIUM
 
-8 findings pending final results / rewards...
+9 findings pending final results / rewards...
 ```
 
 ---
